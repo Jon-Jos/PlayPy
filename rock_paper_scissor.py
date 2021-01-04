@@ -21,6 +21,12 @@ while(flag):
     print("Computer Won!)
   else:
     print("Player Won!")
+  n = input("Do you wanna hit more?Y/N)
+  if n == Y and n == y:
+    flag=True
+  else:
+    flag=False
+    
  
 
   
